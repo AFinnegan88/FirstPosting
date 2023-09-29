@@ -1,3 +1,5 @@
 Readme File
 
-Wasthen edited 
+Was then edited 
+
+And after deleting mistakes we carried on coding
